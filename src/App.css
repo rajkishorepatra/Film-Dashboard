@@ -35,7 +35,7 @@
 
 .register h1{
   font-size: 3em;
-  background: linear-gradient(to right, #16a085, #f4d03f);
+  background: linear-gradient(to right, #2f2a19, #b6b37c);
   /* background: -webkit-linear-gradient(to right, #16a085, #f4d03f); */
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -79,17 +79,19 @@
 
 
 .register Button{
-  background: linear-gradient(to right, #3ca55c, #b5ac49);
+  background: #b6b37c;
+  font-weight: 700;
+  /* color: #ffffff; */
 }
 
 .rules{
   margin-top: 3em;
-  background: linear-gradient(to right, #abbaab, #ffffff);
+  background: rgba(0, 0, 0, 0.1);
 }
 
 .rules h1{
   font-size: 3em;
-  background: linear-gradient(to right, #000000, #e74c3c);
+  background: linear-gradient(to right,  #2f2a19, #b6b37c);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
